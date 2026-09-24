@@ -1,10 +1,12 @@
-# Códigos Java -- Complejidad computacional (CyED1, 2026-2)
+<h1>TL;DR de este repo:</h1>
+<img src="https://http2.mlstatic.com/D_NQ_NP_766340-CBT109721859782_042026-O.webp" height="300" alt="Portada del libro Notas a mano sobre Análisis de Complejidad Computacional">
+<ul>
+  <li><h4>Tecnologías usadas:</h4>Java</li>
+  <li><h4>Fecha aproximada:</h4>Segundo semestre de 2026 (CyED1, 2026-2)</li>
+  <li><h4>Propósito:</h4>Este repo contiene, en Java, los ejercicios del libro <i>Notas a mano sobre Análisis de Complejidad Computacional</i> de Carlos Eduardo Orozco Garcés, César Jesús Pardo Calvache y Mauro Callejas Cuervo. Cada carpeta tiene un <code>Main.java</code> con un ejercicio, y su nombre indica capítulo, número de ejemplo o sección y tema. Créditos del contenido a los autores del libro.</li>
+</ul>
 
-Un programa por carpeta. El nombre de cada carpeta indica capítulo,
-ejercicio y tema. Cada `Main.java` está pensado para copiarse y pegarse
-tal cual en un compilador de Java en línea (por ejemplo, Programiz): se
-pega dentro de la clase `Main` que ese entorno ya trae por defecto y se
-ejecuta con el botón Run, sin instalar nada.
+<h4>Ejercicios:</h4>
 
 | Carpeta | Tema |
 |---|---|
@@ -27,5 +29,3 @@ ejecuta con el botón Run, sin instalar nada.
 | `cap4-ejemplo-4.4.4.4-inicializar-matriz-de-tamano-arbitrario` | Inicializar matriz de tamaño arbitrario |
 | `cap4-ejemplo-4.4.4.5-ciclo-anidado-incremento-no-lineal` | Ciclo anidado con incremento no lineal |
 | `cap4-ejemplo-4.4.4.7-ciclo-con-complejidad-constante` | Ciclo con complejidad constante |
-
-Todos se compilaron y ejecutaron con OpenJDK 11 antes de publicarse.
