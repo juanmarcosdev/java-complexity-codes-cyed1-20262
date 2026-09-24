@@ -3,7 +3,7 @@
 <ul>
   <li><h4>Tecnologías usadas:</h4>Java</li>
   <li><h4>Fecha aproximada:</h4>Segundo semestre de 2026 (CyED1, 2026-2)</li>
-  <li><h4>Propósito:</h4>Este repo contiene, en Java, los ejercicios del libro <i>Notas a mano sobre Análisis de Complejidad Computacional</i> de Carlos Eduardo Orozco Garcés, César Jesús Pardo Calvache y Mauro Callejas Cuervo. Cada carpeta tiene un <code>Main.java</code> con un ejercicio, y su nombre indica capítulo, número de ejemplo o sección y tema. Créditos del contenido a los autores del libro.</li>
+  <li><h4>Propósito:</h4>Este repo contiene los ejercicios del libro <i>Notas a mano sobre Análisis de Complejidad Computacional</i> de Carlos Eduardo Orozco Garcés, César Jesús Pardo Calvache y Mauro Callejas Cuervo. El libro trae los ejercicios en Python; aquí los traduje a Java. Cada carpeta tiene un <code>Main.java</code> con un ejercicio, y su nombre indica capítulo, número de ejemplo o sección y tema. Créditos del contenido a los autores del libro.</li>
 </ul>
 
 <h4>Ejercicios:</h4>
